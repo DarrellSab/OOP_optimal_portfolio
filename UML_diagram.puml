@@ -1,0 +1,185 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+abstract class CAsset{
+-m_strAssetName: string
+-m_strSymbol:string
+-m_strTradeDate: string
+-m_dAmount: double
+-m_dMarketValue: double
+-m_dDayGain: double
+-m_dTotalGain: double
+-m_nPredictionDays: int
++&getMStrAssetName() const: const string
++printAssetInfo() const: virtual void = 0
++getFromBase(): tuple<vector<double>,vector<vector<double>>,vector<vector<double>>>
++slice(): vector<double>
++returnOfAsset(): vector<double>
++meanOfAsset(): double
++returnAndMeanDiffrence():vector<double>
++riskOfAsset(): double
+
+}
+class CStock extends CAsset {
+-dataStock: CDataBase
+-m_strPathToGoogle: string
+-m_strPathToAppl: string
+-m_strPathtToAmznDate: string
++stockMenu(): int
++stockInfo(): void
++printAssetInfo() const override: void
+}
+CStock "0..*" *-- "1" CDataBase
+class CETF extends CAsset {
+-etfData: CDataBase
+-m_strPathToETFInfo: string
+-m_strPathToQQQ: string
+-m_strPathToIXN: string
+-m_strPathToXLK: string
++printAssetInfo() const override: void
++etfMenu(): int
++etfInfo(): void
+}
+CETF "0..*" *-- "1" CDataBase
+class CPortfolio extends CAsset{
+-m_strPortfolioName: String
+-m_nSimbols: int
+-m_dAmountToSpend: double
+-m_strCurrency: string
+-m_nDaysForPrediction: int
+-m_strToITPortfolio: string
+-m_strToETFPortfolio: string
+-*broker: CBroker
+-portfolioData: CDataBase
+-portfolioRisk: CRisk
+-portfolioReturn: CReturn
+-stock: CStock
+-etf: CETF
++printPortfolioData(): String
++setMStrPortfolioName(): void
++setMStrCurrency(): void
++printAssetInfo() const override: void
++&getMStrPortfolioName() const:  const string
++&getMStrCurrency() const: const std::string
++getMNSimbols() const: int
++setMNSimbols(int mNSimbols): void
++createUserPortfolio(): int
++userPortfolio(): void
+}
+
+CPortfolio "1" *-- "0..*" CStock
+CPortfolio "1" *-- "0..*" CETF
+CPortfolio "1" *-- "1" CRisk
+CPortfolio "1" *-- "1" CReturn
+CPortfolio "1" o-- "1" CBroker
+CPortfolio "1" *-- "1" CDataBase
+class CRisk{
+-m_dPortfolioRisk: double
++covarianceVarianceMatrix(): static vector<vector<double>>
++portfolioVariance(): double
++portfolioStd(double variance): static double
+}
+class CReturn{
+-m_dPortfolioReturn: double
++slice(): vector<double>
++returnOfAsset(): vector<double>
++meanOfAsset(): double
++returnAndMeanDiffrence(): vector<double>
++portfolioReturn(): double
++optimalPortfolio(): static vector<vector<double>>
+}
+abstract class CUser{
+-m_strUsername: string
+-m_strPassword: string
+-m_strLoginStatus: string
+-m_strRegisterDate: string
+-m_strPhoneNumber: string
+-m_strEmail: string
+-m_strAddress: string
++&getMStrUsername(): const string
++setMStrUsername(): void
++&getMStrPassword() const: const string
++setMStrPassword(): void
++&getMStrRegisterDate() const: const string
++setMStrRegisterDate(): void
++&getMStrPhoneNumber() const: const string
++setMStrPhoneNumber(): void
++&getMStrEmail() const : const string
++setMStrEmail(): void
++&getMStrAddress() const: const string
++setMStrAddress(): void
++getAllInfoAboutUser(): virtual void  = 0
+}
+class CClient extends CUser{
+-m_strClientName: string
+-m_strCreditCardInfo: string
+-m_strAccount: string
+-m_dAccountBalance: double
+-myHolding: CMyHolding
++&getMStrClientName() const: const string
++setMStrClientName(): void
++&getMStrCreditCardInfo() const: const string
++setMStrCreditCardInfo(): void
++double getMDAccountBalance() const:  const
++setMDAccountBalance(): void
++getMStrAccount() const: const string
++setMStrAccount(): void
++inputDataToDataBase(): void
++createClientMenu(): void
++clientMenu(): int
+}
+CClient "1" *-- "0..*" CMyHolding
+
+class CBroker extends CUser{
+-*asset: CAsset
+-*brokerDatabase: CDataBase
+-m_strBrokerName: string
+-m_dSalary: double
++&getMStrBrokerName() const: const string
++setMStrBrokerName(): void
++getMDSalary() const: double
++setMDSalary():void
++brokerMenu(): int
++createBrokerMenu(): void
+}
+CBroker "1" o-- "0..*" CAsset
+CBroker "1" o-- "0..*" CDataBase
+class CAdministrator extends CUser{
+-*client: CClient
+-databaseAdmin: CDataBase
+-m_strNameOfAdministrator: string
++adminMenu(): int
++createAdministratorMenu(): void
++&getMStrNameOfAdministrator() const: const string
++setMStrNameOfAdministrator(): void
+}
+CAdministrator "1" *-- "0..*" CDataBase
+CAdministrator "1" o-- "0..*" CClient
+class CMyHolding{
+-m_dTotalSum: double
+-m_dDayGain:  double
+-m_dTotalGain: double
+-*portfolio: CPortfolio
++&getMStrHoldingRegisterDate() const: const string
++setMStrHoldingRegisterDate(): void
++&getMStrHoldingName() const: const string
++setMStrHoldingName(): void
++holdingMenu(): int
++createHoldingMenu(): void
+}
+CMyHolding "1" *-- "0..*" CPortfolio
+
+class CDataBase {
+-*asset: CAsset
++inputForETF():  int
++inputForStock(): tuple<vector<string>, vector<double>>
++meanOfAsset(): double
++slice(): vector<double>
++returnOfAsset(): vector<double>
+}
+CDataBase o-- "0..*" CAsset
+CDataBase o-- "2" CDataBase
+
+
+
+@enduml
