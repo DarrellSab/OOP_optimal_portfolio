@@ -1,0 +1,4 @@
+<map id="CStock" name="CStock">
+<area shape="rect" id="node1" title="This class show info about Asset &#45; Stocks, it inherited from class CAsset." alt="" coords="5,433,236,709"/>
+<area shape="rect" id="node2" href="$dc/d85/classCAsset.html" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="11,5,230,385"/>
+</map>

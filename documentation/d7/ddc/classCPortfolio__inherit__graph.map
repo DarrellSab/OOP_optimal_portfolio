@@ -1,0 +1,4 @@
+<map id="CPortfolio" name="CPortfolio">
+<area shape="rect" id="node1" title="This class is connected with CBroker, CDatabase,CRisk, CReturn,CStock and CETF classes." alt="" coords="5,433,231,1021"/>
+<area shape="rect" id="node2" href="$dc/d85/classCAsset.html" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="9,5,227,385"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CClient" name="CClient">
+<area shape="rect" id="node1" title="This class create client objects and maintain them." alt="" coords="1767,2705,1971,2964"/>
+<area shape="rect" id="node2" href="$de/dd6/classCUser.html" title="This class create the user who will be use the program, a trader, a broker or an administrator and ha..." alt="" coords="1653,873,1857,1236"/>
+<area shape="rect" id="node13" href="$db/da6/classCBroker.html" title="CBroker class create object of broker who is related with class CPortfolio through aggregation relati..." alt="" coords="1073,1543,1263,1784"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="1707,157,1797,243"/>
+<area shape="rect" id="node6" href="$d1/d60/classCMyHolding.html" title="This class help for class CClient get info about portfolios and the assets from CPortfolio class and ..." alt="" coords="1456,2295,1707,2640"/>
+<area shape="rect" id="node7" href="$d9/d52/classCPortfolio.html" title="This class is connected with CBroker, CDatabase,CRisk, CReturn,CStock and CETF classes." alt="" coords="1055,1849,1281,2229"/>
+<area shape="rect" id="node8" href="$dc/d85/classCAsset.html" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="987,360,1205,619"/>
+<area shape="rect" id="node10" href="$d7/d8f/classCStock.html" title="This class show info about Asset &#45; Stocks, it inherited from class CAsset." alt="" coords="1659,1551,1890,1775"/>
+<area shape="rect" id="node11" href="$d5/de1/classCDataBase.html" title="This class connect with database in this program database represent the files with extension ...." alt="" coords="1305,917,1500,1193"/>
+<area shape="rect" id="node12" href="$d0/dc4/classCETF.html" title="This class show info about Asset &#45; ETF, it inherited from class CAsset." alt="" coords="1437,1551,1635,1775"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="1679,5,1825,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="530,157,601,243"/>
+<area shape="rect" id="node14" href="$db/d52/classCRisk.html" title="This class calculate risk (standard deviation) of portfolios." alt="" coords="221,643,451,849"/>
+<area shape="rect" id="node15" href="$dd/d09/classCReturn.html" title="This class calculate return of portfolio and search optimal portfolio." alt="" coords="443,1260,661,1519"/>
+<area shape="rect" id="node9" title=" " alt="" coords="963,157,1002,243"/>
+</map>

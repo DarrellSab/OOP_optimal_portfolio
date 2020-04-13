@@ -1,0 +1,4 @@
+<map id="CBroker" name="CBroker">
+<area shape="rect" id="node1" title="CBroker class create object of broker who is related with class CPortfolio through aggregation relati..." alt="" coords="12,520,203,813"/>
+<area shape="rect" id="node2" href="$de/dd6/classCUser.html" title="This class create the user who will be use the program, a trader, a broker or an administrator and ha..." alt="" coords="5,5,209,472"/>
+</map>

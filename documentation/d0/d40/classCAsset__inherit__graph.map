@@ -1,0 +1,6 @@
+<map id="CAsset" name="CAsset">
+<area shape="rect" id="node1" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="231,5,449,385"/>
+<area shape="rect" id="node2" href="$d0/dc4/classCETF.html" title="This class show info about Asset &#45; ETF, it inherited from class CAsset." alt="" coords="5,581,203,874"/>
+<area shape="rect" id="node3" href="$d9/d52/classCPortfolio.html" title="This class is connected with CBroker, CDatabase,CRisk, CReturn,CStock and CETF classes." alt="" coords="227,433,453,1021"/>
+<area shape="rect" id="node4" href="$d7/d8f/classCStock.html" title="This class show info about Asset &#45; Stocks, it inherited from class CAsset." alt="" coords="477,589,707,865"/>
+</map>

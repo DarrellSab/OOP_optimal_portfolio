@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/dd6/classCUser.html" title="This class create the user who will be use the program, a trader, a broker or an administrator and ha..." alt="" coords="5,59,73,88"/>
+<area shape="rect" id="node2" href="$da/d8b/classCAdministrator.html" title="The class CAdministrator creates object of administrator that maintain, change the program Optimal Po..." alt="" coords="121,5,249,35"/>
+<area shape="rect" id="node3" href="$db/da6/classCBroker.html" title="CBroker class create object of broker who is related with class CPortfolio through aggregation relati..." alt="" coords="145,59,226,88"/>
+<area shape="rect" id="node4" href="$df/da7/classCClient.html" title="This class create client objects and maintain them." alt="" coords="147,112,223,141"/>
+</map>

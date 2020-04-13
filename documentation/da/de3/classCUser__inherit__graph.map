@@ -1,0 +1,6 @@
+<map id="CUser" name="CUser">
+<area shape="rect" id="node1" title="This class create the user who will be use the program, a trader, a broker or an administrator and ha..." alt="" coords="277,5,481,472"/>
+<area shape="rect" id="node2" href="$da/d8b/classCAdministrator.html" title="The class CAdministrator creates object of administrator that maintain, change the program Optimal Po..." alt="" coords="5,572,259,813"/>
+<area shape="rect" id="node3" href="$db/da6/classCBroker.html" title="CBroker class create object of broker who is related with class CPortfolio through aggregation relati..." alt="" coords="283,546,474,839"/>
+<area shape="rect" id="node4" href="$df/da7/classCClient.html" title="This class create client objects and maintain them." alt="" coords="498,520,702,865"/>
+</map>

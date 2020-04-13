@@ -1,0 +1,4 @@
+<map id="CBroker::brokerMenu" name="CBroker::brokerMenu">
+<area shape="rect" id="node1" title="this CBroker member function is creating menu to get info or to create broker account" alt="" coords="5,5,180,35"/>
+<area shape="rect" id="node2" href="$db/da6/classCBroker.html#a2222652bc234a4136a5aa321f5e0b6c5" title="Method get Broker name from member field m_strBrokerName." alt="" coords="228,5,463,35"/>
+</map>

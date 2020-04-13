@@ -1,0 +1,10 @@
+<map id="CBroker" name="CBroker">
+<area shape="rect" id="node1" title="CBroker class create object of broker who is related with class CPortfolio through aggregation relati..." alt="" coords="479,1423,670,1664"/>
+<area shape="rect" id="node2" href="$de/dd6/classCUser.html" title="This class create the user who will be use the program, a trader, a broker or an administrator and ha..." alt="" coords="228,695,432,1057"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="324,157,414,243"/>
+<area shape="rect" id="node6" href="$d5/de1/classCDataBase.html" title="This class connect with database in this program database represent the files with extension ...." alt="" coords="646,1081,841,1357"/>
+<area shape="rect" id="node7" href="$dc/d85/classCAsset.html" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="634,412,853,671"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="296,5,442,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="947,157,1018,243"/>
+<area shape="rect" id="node8" title=" " alt="" coords="636,157,675,243"/>
+</map>

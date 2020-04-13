@@ -1,0 +1,10 @@
+<map id="CDataBase::inputForStock" name="CDataBase::inputForStock">
+<area shape="rect" id="node1" title="Method get and set data of Stocks to database in this program database are the files and relation wit..." alt="" coords="947,84,1159,113"/>
+<area shape="rect" id="node2" href="$d5/de1/classCDataBase.html#aa61685a913b467ab78f3a52823f15339" title=" " alt="" coords="675,5,899,35"/>
+<area shape="rect" id="node3" href="$da/d8b/classCAdministrator.html#a834db63b1ee3b716b1e8e97a101e51de" title="Method with while loop, switch expression and fstream library to register the administrator and can g..." alt="" coords="312,57,627,87"/>
+<area shape="rect" id="node5" href="$db/da6/classCBroker.html#abce158f7c4dce747c076db9e7d1cdf52" title="This function create Broker menu through this you can register, change info about Broker." alt="" coords="677,109,897,139"/>
+<area shape="rect" id="node6" href="$d7/d8f/classCStock.html#a0ef2eda44098e896ddb09d5d4629d7aa" title="Method gets and sets all info about stock using switch statement, case, if, else if,..." alt="" coords="714,163,859,192"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="106,84,163,113"/>
+<area shape="rect" id="node7" href="$d9/d52/classCPortfolio.html#a1253d72b078e2ad23e28744f232a078a" title="Mehtod set and get all information about the portfolios." alt="" coords="374,163,565,192"/>
+<area shape="rect" id="node8" href="$d1/d60/classCMyHolding.html#a2da746680d2dd9d7af60d49719b0fd37" title="Method set and gets all information about holding of Client." alt="" coords="5,163,264,192"/>
+</map>

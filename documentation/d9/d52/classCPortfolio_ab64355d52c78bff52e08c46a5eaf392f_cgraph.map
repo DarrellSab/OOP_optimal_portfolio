@@ -1,0 +1,8 @@
+<map id="CPortfolio::getTotalPriceOfStocks" name="CPortfolio::getTotalPriceOfStocks">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,201,70"/>
+<area shape="rect" id="node2" href="$dc/d85/classCAsset.html#a88a8db3713a384a78007fe0ede5851d9" title="Getting data from database." alt="" coords="249,23,460,70"/>
+<area shape="rect" id="node3" href="$d5/de1/classCDataBase.html#a05366b9fffcc574425739ec7007d59f1" title="Method get and set data of Stocks to database in this program database are the files and relation wit..." alt="" coords="508,32,720,61"/>
+<area shape="rect" id="node4" href="$d5/de1/classCDataBase.html#a3ac9748e34a93b398f72a9d770b4d0cc" title="calculate meanOfAsset" alt="" coords="769,5,978,35"/>
+<area shape="rect" id="node5" href="$d5/de1/classCDataBase.html#addbd9873807ba906964fdc719cc2966f" title="Method calculate return of Assets." alt="" coords="768,59,979,88"/>
+<area shape="rect" id="node6" href="$d5/de1/classCDataBase.html#ae2c38c644b4bd594c74676aa1983758e" title="Method helps to set size of vector." alt="" coords="1027,59,1173,88"/>
+</map>

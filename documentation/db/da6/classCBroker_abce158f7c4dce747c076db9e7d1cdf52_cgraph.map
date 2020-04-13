@@ -1,0 +1,36 @@
+<map id="CBroker::createBrokerMenu" name="CBroker::createBrokerMenu">
+<area shape="rect" id="node1" title="This function create Broker menu through this you can register, change info about Broker." alt="" coords="5,429,225,459"/>
+<area shape="rect" id="node2" href="$db/da6/classCBroker.html#a0a4c0561e0aa269774c971c7b59a6055" title="this CBroker member function is creating menu to get info or to create broker account" alt="" coords="303,5,478,35"/>
+<area shape="rect" id="node3" href="$db/da6/classCBroker.html#a2222652bc234a4136a5aa321f5e0b6c5" title="Method get Broker name from member field m_strBrokerName." alt="" coords="570,32,805,61"/>
+<area shape="rect" id="node4" href="$de/dd6/classCUser.html#a4426efd46e3ed6df6d3b1765eefb0094" title=" " alt="" coords="295,109,486,139"/>
+<area shape="rect" id="node5" href="$de/dd6/classCUser.html#a6a8a1d2949cabbf38017689411a10f90" title=" " alt="" coords="305,163,477,192"/>
+<area shape="rect" id="node6" href="$de/dd6/classCUser.html#a2a1b7d80c34e48084f111736f0161c34" title=" " alt="" coords="289,216,492,245"/>
+<area shape="rect" id="node7" href="$de/dd6/classCUser.html#aae8a3eea4ee7e459e75cbb94934d6420" title=" " alt="" coords="273,269,508,299"/>
+<area shape="rect" id="node8" href="$de/dd6/classCUser.html#a99623f378da2bc2bde96372447041938" title=" " alt="" coords="278,323,503,352"/>
+<area shape="rect" id="node9" href="$de/dd6/classCUser.html#aaa97b7e7cd44d46d703ca0abe79898c1" title=" " alt="" coords="288,376,493,405"/>
+<area shape="rect" id="node10" href="$d5/de1/classCDataBase.html#a06e986cfe90b12db4e651ca70f4c6949" title="Method get and set data of ETF to database in this program database are the files and relation with t..." alt="" coords="289,483,492,512"/>
+<area shape="rect" id="node26" href="$d5/de1/classCDataBase.html#a763fc57fb5ad33e7d4ef92dd32698f34" title="Method get and set data of Stocks to database in this program database are the files and relation wit..." alt="" coords="285,429,497,459"/>
+<area shape="rect" id="node28" href="$de/dd6/classCUser.html#a620cb94cbb315d45238cde10b79f9093" title=" " alt="" coords="296,536,485,565"/>
+<area shape="rect" id="node29" href="$db/da6/classCBroker.html#aca0efebc9cffa5ae03d0fe2c1ffcc1b2" title="Method set Broker name." alt="" coords="274,589,507,619"/>
+<area shape="rect" id="node30" href="$de/dd6/classCUser.html#a8dc600d0758abdecbbe1c48b60d75cf5" title=" " alt="" coords="305,643,476,672"/>
+<area shape="rect" id="node31" href="$de/dd6/classCUser.html#a084834c81eac4df94fab1b039be64432" title=" " alt="" coords="290,696,491,725"/>
+<area shape="rect" id="node32" href="$de/dd6/classCUser.html#a03c30cd45adbcf9a77763f78139f7a55" title=" " alt="" coords="273,749,508,779"/>
+<area shape="rect" id="node33" href="$de/dd6/classCUser.html#a444c52bb242a31119bf0283d3c70c1f7" title=" " alt="" coords="279,803,503,832"/>
+<area shape="rect" id="node34" href="$de/dd6/classCUser.html#a84554247192c699b9abb455cddbd7e63" title=" " alt="" coords="289,856,493,885"/>
+<area shape="rect" id="node11" href="$db/d52/classCRisk.html#aea7aecfae721440bbed175e109518464" title="Method calculate matrix of covariance and variance for portfolio to help calculate risk of the portfo..." alt="" coords="579,385,795,431"/>
+<area shape="rect" id="node12" href="$dc/d85/classCAsset.html#ab68c11feace8e8f4b9852404a458796c" title="Method get data from database through the class CDataBase." alt="" coords="598,456,777,485"/>
+<area shape="rect" id="node23" href="$d5/de1/classCDataBase.html#a57a02c1f3a727f142c42c24789882730" title=" " alt="" coords="556,563,819,592"/>
+<area shape="rect" id="node24" href="$dd/d09/classCReturn.html#a4ae6568cb0c834cce8f257e8a82966c3" title="Method calculate portfolio which have the biggest return with the lowest risk." alt="" coords="587,509,788,539"/>
+<area shape="rect" id="node13" href="$d7/d8f/classCStock.html#ac29f9a8363a2388481e44526a0d4aa06" title=" " alt="" coords="889,376,1112,405"/>
+<area shape="rect" id="node14" href="$d7/d8f/classCStock.html#a71879b1e890394887791d3746cb7ef04" title=" " alt="" coords="880,429,1121,459"/>
+<area shape="rect" id="node15" href="$d0/dc4/classCETF.html#af8e267a244a73e0ad7038f83b5ec26b0" title=" " alt="" coords="900,483,1101,512"/>
+<area shape="rect" id="node16" href="$d0/dc4/classCETF.html#a8d19cc867f54575686cf448a2d17af38" title=" " alt="" coords="895,536,1106,565"/>
+<area shape="rect" id="node17" href="$d0/dc4/classCETF.html#a477bc0a30dca4ce9bf7a9a52e121324b" title=" " alt="" coords="899,589,1102,619"/>
+<area shape="rect" id="node18" href="$d7/d8f/classCStock.html#a157bab205439811406e6aa5da0fcaddd" title=" " alt="" coords="867,643,1135,672"/>
+<area shape="rect" id="node19" href="$dc/d85/classCAsset.html#a48d22720b57dc24776a9023be661bff9" title="Method calculate mean of one Asset." alt="" coords="911,216,1090,245"/>
+<area shape="rect" id="node20" href="$dc/d85/classCAsset.html#aa855b3cfd867f9788d1cc0e5db7c3870" title="Method return diffrence between vector of returns and double value of mean of return of Asset." alt="" coords="873,269,1129,299"/>
+<area shape="rect" id="node21" href="$dc/d85/classCAsset.html#a96031ecbece20a71af492b3cf5063f0b" title="Method returns what is returns of one Asset in the setting period, get info for this from database." alt="" coords="911,323,1090,352"/>
+<area shape="rect" id="node22" href="$dc/d85/classCAsset.html#ae862a51b2a6ea0668c19a07f081e0b3c" title="Method helps to set size of vector for next method returnOfAsset()" alt="" coords="1183,323,1297,352"/>
+<area shape="rect" id="node25" href="$db/d52/classCRisk.html#a8742c21ca8a8034b4fe20b3676ab931b" title="Method calculate risk of the portfolio &#45; standard deviation to help calculate std of portfolio taking..." alt="" coords="923,696,1078,725"/>
+<area shape="rect" id="node27" href="$d5/de1/classCDataBase.html#a4d52b0dbf60c0295aea772711839332d" title=" " alt="" coords="560,331,815,360"/>
+</map>

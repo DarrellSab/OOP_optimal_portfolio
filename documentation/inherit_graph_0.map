@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d85/classCAsset.html" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="5,59,80,88"/>
+<area shape="rect" id="node2" href="$d0/dc4/classCETF.html" title="This class show info about Asset &#45; ETF, it inherited from class CAsset." alt="" coords="142,5,207,35"/>
+<area shape="rect" id="node3" href="$d9/d52/classCPortfolio.html" title="This class is connected with CBroker, CDatabase,CRisk, CReturn,CStock and CETF classes." alt="" coords="128,59,221,88"/>
+<area shape="rect" id="node4" href="$d7/d8f/classCStock.html" title="This class show info about Asset &#45; Stocks, it inherited from class CAsset." alt="" coords="137,112,212,141"/>
+</map>

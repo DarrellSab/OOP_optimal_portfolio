@@ -1,0 +1,13 @@
+<map id="CAsset::getFromBase" name="CAsset::getFromBase">
+<area shape="rect" id="node1" title="Method get data from database through the class CDataBase." alt="" coords="5,219,184,248"/>
+<area shape="rect" id="node2" href="$d7/d8f/classCStock.html#ac29f9a8363a2388481e44526a0d4aa06" title=" " alt="" coords="255,5,477,35"/>
+<area shape="rect" id="node3" href="$d7/d8f/classCStock.html#a71879b1e890394887791d3746cb7ef04" title=" " alt="" coords="245,59,487,88"/>
+<area shape="rect" id="node4" href="$d0/dc4/classCETF.html#af8e267a244a73e0ad7038f83b5ec26b0" title=" " alt="" coords="265,112,467,141"/>
+<area shape="rect" id="node5" href="$d0/dc4/classCETF.html#a8d19cc867f54575686cf448a2d17af38" title=" " alt="" coords="261,165,471,195"/>
+<area shape="rect" id="node6" href="$d0/dc4/classCETF.html#a477bc0a30dca4ce9bf7a9a52e121324b" title=" " alt="" coords="265,219,467,248"/>
+<area shape="rect" id="node7" href="$d7/d8f/classCStock.html#a157bab205439811406e6aa5da0fcaddd" title=" " alt="" coords="232,272,500,301"/>
+<area shape="rect" id="node8" href="$dc/d85/classCAsset.html#a48d22720b57dc24776a9023be661bff9" title="Method calculate mean of one Asset." alt="" coords="277,325,455,355"/>
+<area shape="rect" id="node9" href="$dc/d85/classCAsset.html#aa855b3cfd867f9788d1cc0e5db7c3870" title="Method return diffrence between vector of returns and double value of mean of return of Asset." alt="" coords="238,379,494,408"/>
+<area shape="rect" id="node10" href="$dc/d85/classCAsset.html#a96031ecbece20a71af492b3cf5063f0b" title="Method returns what is returns of one Asset in the setting period, get info for this from database." alt="" coords="277,432,455,461"/>
+<area shape="rect" id="node11" href="$dc/d85/classCAsset.html#ae862a51b2a6ea0668c19a07f081e0b3c" title="Method helps to set size of vector for next method returnOfAsset()" alt="" coords="548,432,663,461"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CStock::stockMenu" name="CStock::stockMenu">
+<area shape="rect" id="node1" title="Method which gets the items of Stock info menu with the switch statement and the cases conditions." alt="" coords="1471,56,1629,85"/>
+<area shape="rect" id="node2" href="$d7/d8f/classCStock.html#a0ef2eda44098e896ddb09d5d4629d7aa" title="Method gets and sets all info about stock using switch statement, case, if, else if,..." alt="" coords="1277,56,1423,85"/>
+<area shape="rect" id="node3" href="$d9/d52/classCPortfolio.html#a1253d72b078e2ad23e28744f232a078a" title="Mehtod set and get all information about the portfolios." alt="" coords="1039,56,1229,85"/>
+<area shape="rect" id="node4" href="$d1/d60/classCMyHolding.html#a2da746680d2dd9d7af60d49719b0fd37" title="Method set and gets all information about holding of Client." alt="" coords="732,56,991,85"/>
+<area shape="rect" id="node5" href="$df/da7/classCClient.html#a1cb513868f3ae0f1130528cdaeb3fb26" title="Method create Client menu through which you can set and get data for Client." alt="" coords="473,56,684,85"/>
+<area shape="rect" id="node6" href="$da/d8b/classCAdministrator.html#a834db63b1ee3b716b1e8e97a101e51de" title="Method with while loop, switch expression and fstream library to register the administrator and can g..." alt="" coords="111,29,425,59"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,63,85"/>
+</map>

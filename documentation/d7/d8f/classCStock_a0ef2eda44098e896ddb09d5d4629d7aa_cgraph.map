@@ -1,0 +1,21 @@
+<map id="CStock::stockInfo" name="CStock::stockInfo">
+<area shape="rect" id="node1" title="Method gets and sets all info about stock using switch statement, case, if, else if,..." alt="" coords="5,335,151,364"/>
+<area shape="rect" id="node2" href="$dc/d85/classCAsset.html#ab68c11feace8e8f4b9852404a458796c" title="Method get data from database through the class CDataBase." alt="" coords="497,245,675,275"/>
+<area shape="rect" id="node13" href="$d5/de1/classCDataBase.html#a763fc57fb5ad33e7d4ef92dd32698f34" title="Method get and set data of Stocks to database in this program database are the files and relation wit..." alt="" coords="199,308,411,337"/>
+<area shape="rect" id="node18" href="$dc/d85/classCAsset.html#ad26f4802c080f55f65007d3622afb394" title="Method gets risk of one Asset." alt="" coords="223,361,386,391"/>
+<area shape="rect" id="node19" href="$d7/d8f/classCStock.html#a6540c1c901a28b07ddf9038ef8b7506f" title="Method which gets the items of Stock info menu with the switch statement and the cases conditions." alt="" coords="225,415,384,444"/>
+<area shape="rect" id="node3" href="$d7/d8f/classCStock.html#ac29f9a8363a2388481e44526a0d4aa06" title=" " alt="" coords="784,5,1007,35"/>
+<area shape="rect" id="node4" href="$d7/d8f/classCStock.html#a71879b1e890394887791d3746cb7ef04" title=" " alt="" coords="775,59,1016,88"/>
+<area shape="rect" id="node5" href="$d0/dc4/classCETF.html#af8e267a244a73e0ad7038f83b5ec26b0" title=" " alt="" coords="795,112,996,141"/>
+<area shape="rect" id="node6" href="$d0/dc4/classCETF.html#a8d19cc867f54575686cf448a2d17af38" title=" " alt="" coords="790,165,1001,195"/>
+<area shape="rect" id="node7" href="$d0/dc4/classCETF.html#a477bc0a30dca4ce9bf7a9a52e121324b" title=" " alt="" coords="794,219,997,248"/>
+<area shape="rect" id="node8" href="$d7/d8f/classCStock.html#a157bab205439811406e6aa5da0fcaddd" title=" " alt="" coords="761,272,1029,301"/>
+<area shape="rect" id="node9" href="$dc/d85/classCAsset.html#a48d22720b57dc24776a9023be661bff9" title="Method calculate mean of one Asset." alt="" coords="806,325,985,355"/>
+<area shape="rect" id="node10" href="$dc/d85/classCAsset.html#aa855b3cfd867f9788d1cc0e5db7c3870" title="Method return diffrence between vector of returns and double value of mean of return of Asset." alt="" coords="767,379,1023,408"/>
+<area shape="rect" id="node11" href="$dc/d85/classCAsset.html#a96031ecbece20a71af492b3cf5063f0b" title="Method returns what is returns of one Asset in the setting period, get info for this from database." alt="" coords="806,432,985,461"/>
+<area shape="rect" id="node12" href="$dc/d85/classCAsset.html#ae862a51b2a6ea0668c19a07f081e0b3c" title="Method helps to set size of vector for next method returnOfAsset()" alt="" coords="1077,432,1192,461"/>
+<area shape="rect" id="node14" href="$db/d52/classCRisk.html#aea7aecfae721440bbed175e109518464" title="Method calculate matrix of covariance and variance for portfolio to help calculate risk of the portfo..." alt="" coords="478,299,694,346"/>
+<area shape="rect" id="node15" href="$d5/de1/classCDataBase.html#a4d52b0dbf60c0295aea772711839332d" title=" " alt="" coords="459,371,713,400"/>
+<area shape="rect" id="node16" href="$dd/d09/classCReturn.html#a4ae6568cb0c834cce8f257e8a82966c3" title="Method calculate portfolio which have the biggest return with the lowest risk." alt="" coords="485,441,687,471"/>
+<area shape="rect" id="node17" href="$db/d52/classCRisk.html#a8742c21ca8a8034b4fe20b3676ab931b" title="Method calculate risk of the portfolio &#45; standard deviation to help calculate std of portfolio taking..." alt="" coords="818,485,973,515"/>
+</map>

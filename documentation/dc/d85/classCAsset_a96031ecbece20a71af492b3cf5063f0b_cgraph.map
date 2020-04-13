@@ -1,0 +1,4 @@
+<map id="CAsset::returnOfAsset" name="CAsset::returnOfAsset">
+<area shape="rect" id="node1" title="Method returns what is returns of one Asset in the setting period, get info for this from database." alt="" coords="5,5,184,35"/>
+<area shape="rect" id="node2" href="$dc/d85/classCAsset.html#ae862a51b2a6ea0668c19a07f081e0b3c" title="Method helps to set size of vector for next method returnOfAsset()" alt="" coords="232,5,347,35"/>
+</map>

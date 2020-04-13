@@ -1,0 +1,4 @@
+<map id="CReturn::optimalPortfolio" name="CReturn::optimalPortfolio">
+<area shape="rect" id="node1" title="Method calculate portfolio which have the biggest return with the lowest risk." alt="" coords="5,5,207,35"/>
+<area shape="rect" id="node2" href="$db/d52/classCRisk.html#a8742c21ca8a8034b4fe20b3676ab931b" title="Method calculate risk of the portfolio &#45; standard deviation to help calculate std of portfolio taking..." alt="" coords="255,5,409,35"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CStock" name="CStock">
+<area shape="rect" id="node1" title="This class show info about Asset &#45; Stocks, it inherited from class CAsset." alt="" coords="216,1060,447,1284"/>
+<area shape="rect" id="node2" href="$dc/d85/classCAsset.html" title="This class is pure virtual class and from it are inhereted those class: CPortfolio,..." alt="" coords="357,360,576,619"/>
+<area shape="rect" id="node7" href="$d5/de1/classCDataBase.html" title="This class connect with database in this program database represent the files with extension ...." alt="" coords="369,719,564,995"/>
+<area shape="rect" id="node3" title=" " alt="" coords="596,157,667,243"/>
+<area shape="rect" id="node4" title=" " alt="" coords="359,157,398,243"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="130,157,221,243"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="102,5,249,108"/>
+</map>
